@@ -82,3 +82,10 @@ This plan shows the `PushedFilters` (e.g., `IsNotNull(PULocationID)`, `(passenge
 ![alt text](screenshots/performance_2.png)
 
 ---
+
+## SQL Query Execution
+
+### Top 10 busiest zones
+![alt text](<screenshots/Screenshot 2025-11-11 at 8.43.31 PM.png>)
+### Average fare by payment type
+![alt text](<screenshots/Screenshot 2025-11-11 at 8.43.52 PM.png>)
